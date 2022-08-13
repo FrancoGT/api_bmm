@@ -1,6 +1,5 @@
 # api_bmm
-API REST en Python Flask
-En backup esta la base de datos.
+En la carpeta backup esta la base de datos.
 El usuario que esta almacenado es:
-username -> admin
+username -> admin - 
 password -> admin
